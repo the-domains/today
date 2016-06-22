@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[today]]></title>
         <description><![CDATA[today]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 02:41:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 22 Jun 2016 14:27:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hancock/Miller]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e71add6-d570-4e37-9451-3eb21591a340.jpg">]]></description>
+            <link>https://thegrid.ai/today/hancockmiller/index.html</link>
+            <guid isPermaLink="false">40bb9b5f-1892-4859-9d86-f08ede703147</guid>
+            <pubDate>Wed, 22 Jun 2016 14:26:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1a35ce0-8990-4042-8ab0-0a706bf7b7e0.jpg">]]></description>
-            <link>undefinedd76391d1-ae34-44e5-94cf-2651ebfa72de/index.html</link>
+            <link>https://thegrid.ai/today/d76391d1-ae34-44e5-94cf-2651ebfa72de/index.html</link>
             <guid isPermaLink="false">d76391d1-ae34-44e5-94cf-2651ebfa72de</guid>
             <pubDate>Wed, 22 Jun 2016 02:41:51 GMT</pubDate>
         </item>
